@@ -1,4 +1,5 @@
-Sample python calculator project!asdasd
+
+Sample python calculator project
 
 
 
